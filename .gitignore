@@ -167,3 +167,6 @@ cython_debug/
 
 # Remove PDFs
 *.pdf
+
+# Remove permission files
+*.pem
